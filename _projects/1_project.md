@@ -2,7 +2,7 @@
 layout: page
 title: OpenPrioBio
 description: with background image
-img: assets/img/12.jpg
+img: assets/img/Logo_OpenPrioBio_weiss.png
 importance: 1
 category: work
 related_publications: true
