@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://LUP-LuftbildUmweltPlanung.github.io/sitemap.xml
+Sitemap: https://lup-luftbildumweltplanung.github.io/sitemap.xml
