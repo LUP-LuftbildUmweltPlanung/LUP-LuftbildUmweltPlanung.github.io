@@ -10,16 +10,33 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
+    image: prof_pic.jpg
+    content: profiles_benjamin.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+  - align: left
+    image: prof_pic.jpg
+    content: profiles_shadi.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+  - align: right
     image: sebastian_pic.jpg
     content: profiles_sebastian.md
     image_circular: false # crops the image to make it circular
     more_info: >
   - align: left
     image: prof_pic.jpg
-    content: profiles_sebastian.md
+    content: profiles_frederic.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      - align: right
+    image: prof_pic.jpg
+    content: profiles_malik.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+  - align: left
+    image: prof_pic.jpg
+    content: profiles_vera.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
 ---

@@ -243,7 +243,12 @@ exclude:
   - lighthouse_results/
   - package.json
   - package-lock.json
+  - _pages/profiles_benjamin.md
+  - _pages/profiles_frederic.md
+  - _pages/profiles_malik.md
   - _pages/profiles_sebastian.md
+  - _pages/profiles_shadi.md
+  - _pages/profiles_vera.md
   - purgecss.config.js
   - README.md
   - readme_preview/
