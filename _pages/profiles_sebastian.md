@@ -1,4 +1,5 @@
-## Sebastian Valencia
+## Sebastian Valencia  
+<sub>*he/him*<sub>
 
 Geological Engineer with an MSc in Remote Sensing, geoinformation and visualisation. Deep knowledge in remote sensing, geomorphology, and environmental processes. Deeply interested in natural processes, remote sensing technologies and data-processing methodologies.
 
