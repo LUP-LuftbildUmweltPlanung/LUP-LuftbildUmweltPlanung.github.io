@@ -29,7 +29,7 @@ profiles:
     content: profiles_frederic.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      - align: right
+  - align: right
     image: prof_pic.jpg
     content: profiles_malik.md
     image_circular: false # crops the image to make it circular
