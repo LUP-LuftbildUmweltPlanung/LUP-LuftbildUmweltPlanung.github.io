@@ -7,9 +7,9 @@ I enjoy combining remote sensing, data science, and machine learning to derive m
 
 <i class="fa-solid fa-compass"></i> **Motto:** *"Stay curious, keep exploring."*
 
-<i class="fa-brands fa-linkedin"></i> [Shadi Ghantous](https://www.linkedin.com/in/shadi-ghantous-4907ba198/) 
-<i class="fa-brands fa-github"></i> [Shadiouss](https://github.com/Shadiouss) 
-<i class="fa-brands fa-orcid"></i> [ORCID](https://orcid.org/0009-0008-6979-5311) 
+<i class="fa-brands fa-linkedin"></i> [Shadi Ghantous](https://www.linkedin.com/in/shadi-ghantous-4907ba198/)  
+<i class="fa-brands fa-github"></i> [Shadiouss](https://github.com/Shadiouss)  
+<i class="fa-brands fa-orcid"></i> [ORCID](https://orcid.org/0009-0008-6979-5311)  
 <i class="fa-brands fa-researchgate"></i> [ResearchGate](https://www.researchgate.net/profile/Shadi-Ghantous-2)
 
 <i class="fa-solid fa-envelope"></i> [shadi.ghantous@lup-umwelt.de](mailto:shadi.ghantous@lup-umwelt.de)
