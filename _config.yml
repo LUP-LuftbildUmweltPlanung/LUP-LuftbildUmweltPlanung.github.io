@@ -238,6 +238,8 @@ exclude:
   - lighthouse_results/
   - package.json
   - package-lock.json
+  - _pages/blog.md
+  - _pages/dropdown.md
   - _pages/profiles_benjamin.md
   - _pages/profiles_frederic.md
   - _pages/profiles_malik.md
