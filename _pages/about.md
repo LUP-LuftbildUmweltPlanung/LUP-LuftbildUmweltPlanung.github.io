@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: lup_placeholder_pic.jpg
+  image: lup_logo_large.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
