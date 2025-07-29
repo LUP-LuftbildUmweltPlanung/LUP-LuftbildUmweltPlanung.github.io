@@ -2,7 +2,7 @@
 layout: about
 title: LUP4geoAI
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Little page subtitle. Like who we are in 7 words or less.
 
 profile:
   align: right

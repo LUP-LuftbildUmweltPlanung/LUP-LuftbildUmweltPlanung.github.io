@@ -4,3 +4,14 @@ repo_description_lines_max: 2
 
 github_repos:
   - LUP-LuftbildUmweltPlanung/GFM_aerial
+  - LUP-LuftbildUmweltPlanung/SITS_change_harmonic
+  - LUP-LuftbildUmweltPlanung/SITS_classification
+  - LUP-LuftbildUmweltPlanung/ObjectDetection
+  - LUP-LuftbildUmweltPlanung/slope_spectral_indices
+  - LUP-LuftbildUmweltPlanung/Data_acquisition
+  - LUP-LuftbildUmweltPlanung/plausbility_tree_species_classification
+  - LUP-LuftbildUmweltPlanung/SAM2_1_fine_tune
+  - LUP-LuftbildUmweltPlanung/SITS_mowing
+  - LUP-LuftbildUmweltPlanung/Areal_prediction_framework
+  - LUP-LuftbildUmweltPlanung/SITS_composite
+  
