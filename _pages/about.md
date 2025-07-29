@@ -9,7 +9,6 @@ profile:
   image: lup_logo_large.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>LUP – LUFTBILD UMWELT PLANUNG GmbH</p>
     <p>Große Weinmeisterstraße 3a</p>
     <p>D-14469 Potsdam - Deutschland</p>
 
