@@ -168,9 +168,8 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: lup-umwelt.de
-    rss_url: https://www.lup-umwelt.de/birdwatch/
-
+  - name:
+    rss_url:
 # -----------------------------------------------------------------------------
 # Newsletter
 # -----------------------------------------------------------------------------
