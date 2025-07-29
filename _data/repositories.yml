@@ -1,4 +1,5 @@
 github_users:
+  - https://github.com/malikmanel
 
 repo_description_lines_max: 2
 
@@ -14,4 +15,4 @@ github_repos:
   - LUP-LuftbildUmweltPlanung/SITS_mowing
   - LUP-LuftbildUmweltPlanung/Areal_prediction_framework
   - LUP-LuftbildUmweltPlanung/SITS_composite
-  
+
