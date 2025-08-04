@@ -1,7 +1,7 @@
 ## Malik-Manel Hashim
 *they/them*
 
-I recently graduated in Aeronautics and Astronautics at the TU Berlin. During my studies I focused on software development, especially neurological models, perception and interpretation, and learning. Outside of my curriculum I worked with autonomous robotic systems, both for use in a lab as well as in more extreme environments. 
+I recently graduated in Aeronautics and Astronautics at the TU Berlin. During my studies I focused on software development, especially neurological models, perception and interpretation, and AI and learning. Outside of my curriculum I worked with autonomous robotic systems, both for use in a lab as well as in more extreme environments. 
 At LUP I supported initial implementations of Deep Learning approaches as a student. Now I develop solutions for a variety of optimization problems, including conservation prioritization and hyperparameter optimization.
 
 <i class="fa-brands fa-github"></i> [malikmanel](https://github.com/malikmanel)  
