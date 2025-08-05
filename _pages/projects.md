@@ -5,7 +5,7 @@ permalink: /projects/
 description: Projects and topics we are working on
 nav: true
 nav_order: 2
-display_categories: [optimization, data handling, AI models]
+display_categories: [AI models, optimization, data handling, others]
 horizontal: false
 ---
 

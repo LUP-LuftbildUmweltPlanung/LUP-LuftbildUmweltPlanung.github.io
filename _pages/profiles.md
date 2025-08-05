@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: people
-description: Meet the team behind the AI-development at LUP
+description: Meet the team behind AI-development at LUP
 nav: true
 nav_order: 5
 
