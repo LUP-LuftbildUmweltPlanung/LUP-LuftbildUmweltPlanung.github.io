@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Publications
 description: Still looking a little empty, but not for long!
 nav: true
 nav_order: 4
