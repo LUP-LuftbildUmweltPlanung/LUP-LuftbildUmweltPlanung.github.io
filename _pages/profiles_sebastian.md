@@ -7,4 +7,3 @@ Geological Engineer with an MSc in Remote Sensing, geoinformation and visualisat
 <i class="fa-brands fa-github"></i> [Azarozo19](https://github.com/Azarozo19)
 
 <i class="fa-solid fa-envelope"></i> [sebastian.valencia@lup-umwelt.de](mailto:sebastian.valencia@lup-umwelt.de)
-

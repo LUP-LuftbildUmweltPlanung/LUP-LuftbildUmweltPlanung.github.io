@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: still unsure wether we have publications/want to add them here.
+description: Still looking a little empty, but not for long!
 nav: true
 nav_order: 4
 ---

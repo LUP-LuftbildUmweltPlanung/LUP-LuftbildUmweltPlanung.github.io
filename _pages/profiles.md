@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: people
-description: group members. also what do we want to do with the individual publications?
+description: Meet the team behind the AI-development at LUP
 nav: true
 nav_order: 5
 

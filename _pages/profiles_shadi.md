@@ -13,6 +13,3 @@ I enjoy combining remote sensing, data science, and machine learning to derive m
 <i class="fa-brands fa-researchgate"></i> [ResearchGate](https://www.researchgate.net/profile/Shadi-Ghantous-2)
 
 <i class="fa-solid fa-envelope"></i> [shadi.ghantous@lup-umwelt.de](mailto:shadi.ghantous@lup-umwelt.de)
-
-Todo: publications
-

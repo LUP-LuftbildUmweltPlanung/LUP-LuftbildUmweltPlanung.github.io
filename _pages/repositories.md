@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Our GitHub repositories. If we want to we can also add our github user profiles.
+description: Our most relevant GitHub projects
 nav: true
 nav_order: 3
 ---

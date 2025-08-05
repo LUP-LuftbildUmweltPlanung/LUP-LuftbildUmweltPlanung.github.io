@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Collection of our projects. categories can be added/removed.
+description: Projects and topics we are working on
 nav: true
 nav_order: 2
-display_categories: [research, development]
+display_categories: [optimization, data handling, AI models]
 horizontal: false
 ---
 
