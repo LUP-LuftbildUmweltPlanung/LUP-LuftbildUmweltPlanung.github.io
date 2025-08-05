@@ -2,7 +2,7 @@
 layout: about
 title: LUP4geoAI
 permalink: /
-subtitle: *Advancing Geospatial AI for Nature and Climate Challenges*
+subtitle: Advancing Geospatial AI for Nature and Climate Challenges
 
 profile:
   align: right

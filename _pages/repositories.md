@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /repositories/
-title: 
-description: 
+title: Repositories
+description: Our most relevant GitHub projects
 nav: true
 nav_order: 3
 ---
@@ -36,8 +36,6 @@ nav_order: 3
 {% endif %}
 
 {% if site.data.repositories.github_repos %}
-
-## GitHub Repositories
 
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
   {% for repo in site.data.repositories.github_repos %}
